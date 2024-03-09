@@ -1,1 +1,2 @@
 initialize license.txt
+will be merge with fast forward mode.  
