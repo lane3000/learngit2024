@@ -6,3 +6,4 @@ the reposistory was updated!
 the modification is by branch named lane!
 creating a new branch is quick!
 this is appended in the branch named dev01
+Switched to a new branch 'feature1'
