@@ -1,3 +1,4 @@
 initialize license.txt
 will be merge with fast forward mode.  
 will be merge without fast forward mode.
+I am working the file but I have to midify the readme.txt at this time.
