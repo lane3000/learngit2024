@@ -11,3 +11,4 @@ createing a new branch is quick and simple.
 the line appended in branch dev-ff
 the line appended in branch dev-no-ff.
 this is the bug 001.
+the bug is fixed on branch fixbug01.
